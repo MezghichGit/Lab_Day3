@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Workshop_Heritage"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16b5295e5022fcb49cf3bbcd01344bb0c6080627"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3c16fd9d1d46995239b022ff9d7a48187f776f1"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Workshop_Heritage"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Workshop_Heritage"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
