@@ -1,0 +1,15 @@
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Heritage\bin\Debug\net8.0\Heritage.exe
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Heritage\bin\Debug\net8.0\Heritage.deps.json
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Heritage\bin\Debug\net8.0\Heritage.runtimeconfig.json
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Heritage\bin\Debug\net8.0\Heritage.dll
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Heritage\bin\Debug\net8.0\Heritage.pdb
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Heritage\obj\Debug\net8.0\Heritage.GeneratedMSBuildEditorConfig.editorconfig
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Heritage\obj\Debug\net8.0\Heritage.AssemblyInfoInputs.cache
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Heritage\obj\Debug\net8.0\Heritage.AssemblyInfo.vb
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Heritage\obj\Debug\net8.0\Heritage.vbproj.CoreCompileInputs.cache
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Heritage\obj\Debug\net8.0\Heritage.sourcelink.json
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Heritage\obj\Debug\net8.0\Heritage.dll
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Heritage\obj\Debug\net8.0\refint\Heritage.dll
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Heritage\obj\Debug\net8.0\Heritage.pdb
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Heritage\obj\Debug\net8.0\Heritage.genruntimeconfig.cache
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Heritage\obj\Debug\net8.0\ref\Heritage.dll

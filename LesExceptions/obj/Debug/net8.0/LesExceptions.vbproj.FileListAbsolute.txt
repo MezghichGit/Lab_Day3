@@ -1,0 +1,15 @@
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\LesExceptions\bin\Debug\net8.0\LesExceptions.exe
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\LesExceptions\bin\Debug\net8.0\LesExceptions.deps.json
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\LesExceptions\bin\Debug\net8.0\LesExceptions.runtimeconfig.json
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\LesExceptions\bin\Debug\net8.0\LesExceptions.dll
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\LesExceptions\bin\Debug\net8.0\LesExceptions.pdb
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\LesExceptions\obj\Debug\net8.0\LesExceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\LesExceptions\obj\Debug\net8.0\LesExceptions.AssemblyInfoInputs.cache
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\LesExceptions\obj\Debug\net8.0\LesExceptions.AssemblyInfo.vb
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\LesExceptions\obj\Debug\net8.0\LesExceptions.vbproj.CoreCompileInputs.cache
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\LesExceptions\obj\Debug\net8.0\LesExceptions.sourcelink.json
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\LesExceptions\obj\Debug\net8.0\LesExceptions.dll
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\LesExceptions\obj\Debug\net8.0\refint\LesExceptions.dll
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\LesExceptions\obj\Debug\net8.0\LesExceptions.pdb
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\LesExceptions\obj\Debug\net8.0\LesExceptions.genruntimeconfig.cache
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\LesExceptions\obj\Debug\net8.0\ref\LesExceptions.dll
