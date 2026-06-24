@@ -13,12 +13,12 @@ Option Explicit On
 
 Imports System
 Imports System.Reflection
-<Assembly: System.Reflection.AssemblyCompanyAttribute("Heritage"),  _
+<Assembly: System.Reflection.AssemblyCompanyAttribute("Workshop_Heritage"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
  Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16b5295e5022fcb49cf3bbcd01344bb0c6080627"),  _
- Assembly: System.Reflection.AssemblyProductAttribute("Heritage"),  _
- Assembly: System.Reflection.AssemblyTitleAttribute("Heritage"),  _
+ Assembly: System.Reflection.AssemblyProductAttribute("Workshop_Heritage"),  _
+ Assembly: System.Reflection.AssemblyTitleAttribute("Workshop_Heritage"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
 
 'Généré par la classe MSBuild WriteCodeFragment.

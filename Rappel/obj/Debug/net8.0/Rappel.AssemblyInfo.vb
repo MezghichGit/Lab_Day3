@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Rappel"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cfc8a8e8dbe8ea58066dfa50a2a6c78ab2cfcad"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16b5295e5022fcb49cf3bbcd01344bb0c6080627"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Rappel"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Rappel"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

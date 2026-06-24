@@ -1,0 +1,15 @@
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Workshop_Heritage\bin\Debug\net8.0\Workshop_Heritage.exe
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Workshop_Heritage\bin\Debug\net8.0\Workshop_Heritage.deps.json
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Workshop_Heritage\bin\Debug\net8.0\Workshop_Heritage.runtimeconfig.json
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Workshop_Heritage\bin\Debug\net8.0\Workshop_Heritage.dll
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Workshop_Heritage\bin\Debug\net8.0\Workshop_Heritage.pdb
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Workshop_Heritage\obj\Debug\net8.0\Workshop_Heritage.GeneratedMSBuildEditorConfig.editorconfig
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Workshop_Heritage\obj\Debug\net8.0\Workshop_Heritage.AssemblyInfoInputs.cache
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Workshop_Heritage\obj\Debug\net8.0\Workshop_Heritage.AssemblyInfo.vb
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Workshop_Heritage\obj\Debug\net8.0\Workshop_Heritage.vbproj.CoreCompileInputs.cache
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Workshop_Heritage\obj\Debug\net8.0\Workshop_Heritage.sourcelink.json
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Workshop_Heritage\obj\Debug\net8.0\Workshop_Heritage.dll
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Workshop_Heritage\obj\Debug\net8.0\refint\Workshop_Heritage.dll
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Workshop_Heritage\obj\Debug\net8.0\Workshop_Heritage.pdb
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Workshop_Heritage\obj\Debug\net8.0\Workshop_Heritage.genruntimeconfig.cache
+D:\0_Formations\Mission_Geneve\Day_3\Rappel\Workshop_Heritage\obj\Debug\net8.0\ref\Workshop_Heritage.dll
